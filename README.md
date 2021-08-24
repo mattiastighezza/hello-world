@@ -1,2 +1,3 @@
 # hello-world
-Just the first repository
+Hi, I am trying to understand the functionalities of GitHub. 
+New info coming soon.
